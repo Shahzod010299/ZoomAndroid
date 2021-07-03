@@ -15,9 +15,11 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"/>
 
-    <Button
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="48dp"
         android:text="Hello World!"/>
 
     <Button
